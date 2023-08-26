@@ -21,9 +21,9 @@
             <h1 id="logo">Fitness with Us</h1>
         </a>
         <nav>
-            <ul>
+            <ul id="menu">
                 <li>
-                    <a href="">Home</a>
+                    <a href="" class="active">Home</a>
                 </li>
                 <li>
                     <a href="">Classes</a>
@@ -33,6 +33,18 @@
                 </li>
             </ul>
         </nav>
+        <!--drop down menu-->
+        <div class="container" onclick="myFunction(this)">
+            <div class="bar1">Home</div>
+            <div class="bar2">Classes</div>
+            <div class="bar3">Sign up</div>
+          </div>
+          
+          <script>
+          function myFunction(x) {
+            x.classList.toggle("change");
+          }
+          </script>
     </header>
     <!--Main Content-->
     <main>Main Content</main>
