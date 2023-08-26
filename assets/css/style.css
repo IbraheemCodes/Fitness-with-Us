@@ -49,9 +49,29 @@ h1 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+/*Nav bar*/
+
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    left: 0;
+    width: 100%;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+
+}
+
 .container {
     display: inline-block;
     cursor: pointer;
+    position: absolute;
+    background-color: #ffffff;
+    left: 0;
+    width: 100%;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
   }
   
   .bar1, .bar2, .bar3 {
