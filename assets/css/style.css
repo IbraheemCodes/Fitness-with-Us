@@ -117,4 +117,14 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+    
+    #logo {
+        font-size: 250%;
+        line-height: 70px;
+        margin: 0 1rem;
+    }
+
+    main {
+        padding-top: 2rem;
+    }
 }
