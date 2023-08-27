@@ -92,10 +92,18 @@ main {
 
 /* Footer */
 
-footer {
-    background-color: blue;
+#socials {
+    display: flex;
+    text-align: center;
+    padding: 20px 5px;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
 
+#socials i {
+    font-size: 170%;
+    color: #3a3a3a;
+}
 /*media quary for tablets and bigger*/
 @media screen and (min-width:768px){
     nav {
