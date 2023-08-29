@@ -173,15 +173,18 @@ div > h2 {
 /*sign up form*/
 
 #signup {
-    background-position: center;
+    background-image: url("../css/images/pexels-anush-gorak-1431282.jpg")no-repeat center center/cover;
+    height: 600px;
+    width: 100%;
     position: relative;
 }
+
 
 #signup-form {
     max-width: 400px;
     position: absolute;
     left: 10%;
-    top: 150px;
+    top: 120px;
 }
 
 .text-input:hover {
@@ -190,9 +193,60 @@ div > h2 {
 
 .join-button:hover {
     background-color: #fafafa;
-    color: #454b1b;
+    color: #000000;
 }
 
+
+
+#signup {
+    background-image: url("../css/images/pexels-anush-gorak-1431282.jpg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+
+#signup-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+
+
+#signup-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #4f504d;
+    color: #fafafa;
+}
 /* Footer */
 
 #socials {
