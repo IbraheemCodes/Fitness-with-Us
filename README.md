@@ -20,6 +20,9 @@ In this page i have displayed a form which the user can fill in their informatio
 All links have been tested and checked via the validator links for both the CSS and HTML.
 I fixed some bugs and issues that were displayed when testing, for example i used many extra divs.
 
+# deployment
+I deployed my work through github where i selected the pages and pusblished my work through the main/ root where upon saying it said, it was sucessfully deployed
+
 # Credits
 The font icons i used from are font awsome.
 the pictures in the background of home page, classes and sign up i used are from free stock photos.
