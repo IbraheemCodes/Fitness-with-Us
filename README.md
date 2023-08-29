@@ -19,13 +19,15 @@ In this page i have mentioned the classes that occur every day of the week and w
 https://ibraheemcodes.github.io/Fitness-with-Us/signup.html
 In this page i have displayed a form which the user can fill in their information such as name email address and age. when they fill this out they can join in the classes. The form will not allow the user to press submit unless they have filled out each section.
 
-# testing
+# Testing
 All links have been tested and checked via the validator links for both the CSS and HTML.
+https://validator.w3.org/nu/#textarea
+https://jigsaw.w3.org/css-validator/validator
 I fixed some bugs and issues that were displayed when testing, for example i used many extra divs.
 
-# deployment
+# Deployment
 I deployed my work through github where i selected the pages and pusblished my work through the main/ root where upon saying it said, it was sucessfully deployed
 
 # Credits
-The font icons i used from are font awsome.
+The font icons i used from are font awesome.
 the pictures in the background of home page, classes and sign up i used are from free stock photos.
