@@ -14,12 +14,12 @@ also on every page i have mentioned a footer where users can press on any of the
 In this page i have mentioned the classes that occur every day of the week and who it is led by and at which time for example, monday training is fast paced cardio which is led by Hamza H at 9-11am and gave a description below "Excellent fast pace cardio workout aimed to burn off as much fat as possible and get you to become stronger and faster".
 
 # Signup page
-In this page i have displayed a form which the user can fill in their information such as name email address and age. when they fill this out they can join in the classes. the form will not allow the user to press submit unless they have filled out each section.
+In this page i have displayed a form which the user can fill in their information such as name email address and age. when they fill this out they can join in the classes. The form will not allow the user to press submit unless they have filled out each section.
 
 # testing
-All links have been tested and checked via the validator links for both the CSS and HTML
-i fixed any bugs or issues that were displayed when testing
+All links have been tested and checked via the validator links for both the CSS and HTML.
+I fixed some bugs and issues that were displayed when testing, for example i used many extra divs.
 
 # Credits
-The font icons i used from are font awsome
-the pictures in the background of home page, classes and sign up i used are from free stock photos
+The font icons i used from are font awsome.
+the pictures in the background of home page, classes and sign up i used are from free stock photos.
