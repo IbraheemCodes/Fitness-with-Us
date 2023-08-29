@@ -1,4 +1,5 @@
 # Fitness-with-Us
+Click on this [Link](https://ui.dev/amiresponsive?url=https://ibraheemcodes.github.io/Fitness-with-Us/index.html) for the live and responsive website
 This website is targeted towards any individuals in birmingham dedicated to change and become better by joining the classes as a group to workout and socialise. Fitness with us will help those who want to excercise and workout. 
 The design is very user friendly as they can easily access what they are looking for.
 this design will help keep user interested and ecouraged enough to join.
