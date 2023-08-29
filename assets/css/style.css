@@ -173,7 +173,7 @@ div > h2 {
 /*sign up form*/
 
 #signup {
-    background-image: url("../css/images/pexels-anush-gorak-1431282.jpg")no-repeat center center/cover;
+    background: url("../css/images/pexels-anush-gorak-1431282.jpg")no-repeat center center/cover;
     height: 600px;
     width: 100%;
     position: relative;
