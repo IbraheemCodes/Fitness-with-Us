@@ -29,5 +29,6 @@ I fixed some bugs and issues that were displayed when testing, for example i use
 I deployed my work through github where i selected the pages and pusblished my work through the main/ root where upon saying it said, it was sucessfully deployed
 
 # Credits
-The font icons i used from are font awesome.
-the pictures in the background of home page, classes and sign up i used are from free stock photos.
+The font icons i used from are [font awesome](https://fontawesome.com/v4/icons/).
+The pictures in the background of home page, classes and sign up i used are from [Pexels](https://www.pexels.com/).
+The fonts i used are from [Google font] (https://fonts.google.com/)
