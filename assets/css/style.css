@@ -137,6 +137,62 @@ main {
     margin: 5px 0;
 }
 
+
+/*Classes section*/
+
+#hero2 {
+    height: 600px;
+    width: 100%;
+    background: url("../css/images/pexels-william-choquette-1954524.jpg") no-repeat center center/cover ;
+    position: relative;
+}
+
+#h2-header {
+    padding-left: 2rem;
+    background-color: rgb(245, 129, 129);
+    font-size: 130%;
+    position: absolute;
+    top: 70px;
+    left: 15px;
+}
+
+#table-week {
+    width: 90%;
+    margin: 20px auto;
+}
+
+section > h2 {
+    padding-bottom: 20px;
+}
+
+div > h2 {
+    padding-bottom: 10px;
+}
+
+
+/*sign up form*/
+
+#signup {
+    background-position: center;
+    position: relative;
+}
+
+#signup-form {
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    top: 150px;
+}
+
+.text-input:hover {
+    border-color: #f16c6b;
+}
+
+.join-button:hover {
+    background-color: #fafafa;
+    color: #454b1b;
+}
+
 /* Footer */
 
 #socials {
