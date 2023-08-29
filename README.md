@@ -34,3 +34,4 @@ The font icons i used from are [font awesome](https://fontawesome.com/v4/icons/)
 The pictures in the background of home page, classes and sign up i used are from [Pexels](https://www.pexels.com/).
 The fonts i used are from [Google font] (https://fonts.google.com/)
 I also had some help from my mentor and other repositories from codes institute with making the fitness with me website.
+I created the sign up form and the footer as well as the display of the homepage,classes with the help of code institute from the HTML and CSS essentials in my programme overiew.
