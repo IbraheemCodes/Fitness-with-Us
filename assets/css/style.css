@@ -199,13 +199,12 @@ div > h2 {
 
 
 #signup {
-    background-image: url("../css/images/pexels-anush-gorak-1431282.jpg");
+    background: url("../css/images/pexels-anush-gorak-1431282.jpg");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
-
 
 #signup-form {
     color: #ffffff;
