@@ -1,4 +1,6 @@
 # Fitness-with-Us
+
+![live](assets/css/images/live.png)
 Click on this [Link](https://ui.dev/amiresponsive?url=https://ibraheemcodes.github.io/Fitness-with-Us/index.html) for the live and responsive website
 This website is targeted towards any individuals in birmingham dedicated to change and become better by joining the classes as a group to workout and socialise. Fitness with us will help those who want to excercise and workout. 
 The design is very user friendly as they can easily access what they are looking for.
@@ -7,10 +9,22 @@ Homepage, classes and sign up pages are all responsive on phone tablets and lapt
 
 # Home page 
 [Home Page](https://ibraheemcodes.github.io/Fitness-with-Us/index.html)
+
+![live](assets/css/images/frontpage.png)
+
 The pictures in the background is all to do with workout to encourage and attract the users that are using the website. 
+
+![live](assets/css/images/tab.png)
+
+
 I have included features such as navigation menu on mobile so they can select home, classes and sign up.
 At the bottom, i have mentioned why the user might want to join us, gien many reasons to help encourage to join.
-also on every page i have mentioned a footer where users can press on any of the 4 links to contact me for example i have displayed facebook, instagram, tiktok and youtube and every link works.
+
+![live](assets/css/images/front2.png)
+
+Also on every page i have mentioned a footer where users can press on any of the 4 links to contact me for example i have displayed facebook, instagram, tiktok and youtube and every link works.
+
+![live](assets/css/images/btab.png)
 
 # Classes page
 [Classes page](https://ibraheemcodes.github.io/Fitness-with-Us/classes.html)
