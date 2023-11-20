@@ -28,16 +28,28 @@ Also on every page i have mentioned a footer where users can press on any of the
 
 # Classes page
 [Classes page](https://ibraheemcodes.github.io/Fitness-with-Us/classes.html)
+
+![live](assets/css/images/classes.png)
+
 In this page i have mentioned the classes that occur every day of the week and who it is led by and at which time for example, monday training is fast paced cardio which is led by Hamza H at 9-11am and gave a description below "Excellent fast pace cardio workout aimed to burn off as much fat as possible and get you to become stronger and faster".
 
 # Signup page
 [Signup page](https://ibraheemcodes.github.io/Fitness-with-Us/signup.html)
+
+![live](assets/css/images/signup.png)
+
 In this page i have displayed a form which the user can fill in their information such as name email address and age. when they fill this out they can join in the classes. The form will not allow the user to press submit unless they have filled out each section.
 
 # Testing
 All links have been tested and checked via the validator links for both the [CSS](https://jigsaw.w3.org/css-validator/validator
 ) and [HTML](https://validator.w3.org/nu/#textarea
 ).
+
+![live](assets/css/images/css.png)
+
+![live](assets/css/images/html.png)
+
+
 I fixed some bugs and issues that were displayed when testing, for example i used many extra divs.
 
 # Deployment
