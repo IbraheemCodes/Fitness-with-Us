@@ -50,14 +50,22 @@ All links have been tested and checked via the validator links for both the [CSS
 ![live](assets/css/images/html.png)
 
 
-I fixed some bugs and issues that were displayed when testing, for example i used many extra divs.
+- I fixed some bugs and issues that were displayed when testing, for example i used many extra divs.
+
+- The view for ipad wasnt appealing therefore i had to adjust the media quires.
+
+- The link for sign up wouldnt open in a new tab therefore i fixed that error
 
 # Deployment
-I deployed my work through github where i selected the pages and pusblished my work through the main/ root where upon saying it said, it was sucessfully deployed
+I deployed my work through github where i selected the pages section and select Branch as Main branch so it is pusblished through the main/ root where upon selecting it said, it was sucessfully deployed and a live link was provided.
+
+
+![live](assets/css/images/github.png)
+
 
 # Credits
 The font icons i used from are [font awesome](https://fontawesome.com/v4/icons/).
 The pictures in the background of home page, classes and sign up i used are from [Pexels](https://www.pexels.com/).
-The fonts i used are from [Google font] (https://fonts.google.com/)
+The fonts i used are from [Google font](https://fonts.google.com/)
 I also had some help from my mentor and other repositories from codes institute with making the fitness with me website.
 I created the sign up form and the footer as well as the display of the homepage,classes with the help of code institute from the HTML and CSS essentials in my programme overiew.
